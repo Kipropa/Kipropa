@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kipropa
+- 👋 Hi, I’m @Kiprop A.
 - 👀 I’m interested in disruptive technologies
 - 🌱 I’m currently working on blockchain while helping in the transition to the amazing Web3
 - 💞️ I’m looking to collaborate on varying areas of development 
